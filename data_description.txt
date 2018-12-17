@@ -2,4 +2,4 @@ odor_spike_timepoint.zip:
 
 File name format: spike-odor-trial-channel.mat, variable name spike, sampling rate 40kHz, range 0-40s*40kHz.
 
-File name format time-odor-trial.mat, variable name KBD1, including start and end time point of odor stimulation
+File name format time-odor-trial.mat, variable name KBD1, including start and end time point of odor stimulation.
